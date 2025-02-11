@@ -1,0 +1,8 @@
+pandas
+numpy
+scipy
+openpyxl
+plotly
+scikit-learn
+transformers
+torch
